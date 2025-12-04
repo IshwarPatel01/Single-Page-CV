@@ -24,3 +24,7 @@ favicon.png (or your favicon file)
 
 ## Purpose
 Practice building clean, accessible, well-structured HTML for a personal CV page.
+
+
+## Project URL
+https://roadmap.sh/projects/single-page-cv
